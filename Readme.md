@@ -1,4 +1,3 @@
-Readme
 This project contains the codes of paper "Active-LATHE: An Active Learning Algorithm for Boosting the Error exponent for Learning Homogeneous Ising Trees"
 
 Code list:
